@@ -19,7 +19,7 @@
       "percentToNextDip": 0.56,
       "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 848,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
       "id": "Erica_1",
@@ -37,9 +37,9 @@
       "progress1540": null,
       "progress22100": null,
       "percentToNextDip": 1,
-      "lastLive": "2025-08-17T07:00:00.000Z",
+      "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 143,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
       "id": "Erica_2",
@@ -57,9 +57,9 @@
       "progress1540": null,
       "progress22100": null,
       "percentToNextDip": 0.95,
-      "lastLive": "2025-08-17T07:00:00.000Z",
+      "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 428,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
       "id": "Erica_3",
@@ -77,9 +77,9 @@
       "progress1540": null,
       "progress22100": null,
       "percentToNextDip": 0.97,
-      "lastLive": "2025-08-17T07:00:00.000Z",
+      "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 290,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
       "id": "Erica_4",
@@ -97,9 +97,9 @@
       "progress1540": null,
       "progress22100": null,
       "percentToNextDip": 0.88,
-      "lastLive": "2025-08-17T07:00:00.000Z",
+      "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 353,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
       "id": "Erica_5",
@@ -119,10 +119,30 @@
       "percentToNextDip": 0.82,
       "lastLive": "2025-08-13T07:00:00.000Z",
       "lifetimeInDays": 526,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
       "id": "Erica_6",
+      "sheetName": "Erica",
+      "rank": 130,
+      "userId": "exlusive92",
+      "cid": "7483304886939942912",
+      "agentName": "Erica",
+      "ttRank": null,
+      "dipTier": "No Tier",
+      "nextRankDiamonds": 292,
+      "validDays": 7,
+      "hours": 19.11,
+      "progress1225": null,
+      "progress1540": null,
+      "progress22100": null,
+      "percentToNextDip": 0.78,
+      "lastLive": "2025-08-18T07:00:00.000Z",
+      "lifetimeInDays": 153,
+      "lastUpdated": "Aug 19th 7:21 AM EST"
+    },
+    {
+      "id": "Erica_7",
       "sheetName": "Erica",
       "rank": 174,
       "userId": "xannychaos",
@@ -139,10 +159,10 @@
       "percentToNextDip": 0.54,
       "lastLive": "2025-08-13T07:00:00.000Z",
       "lifetimeInDays": 178,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Erica_7",
+      "id": "Erica_8",
       "sheetName": "Erica",
       "rank": 175,
       "userId": "thecmags",
@@ -157,12 +177,12 @@
       "progress1540": null,
       "progress22100": null,
       "percentToNextDip": 0.89,
-      "lastLive": "2025-08-17T07:00:00.000Z",
+      "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 14,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Erica_8",
+      "id": "Erica_9",
       "sheetName": "Erica",
       "rank": 216,
       "userId": "annamt.gaming",
@@ -179,10 +199,10 @@
       "percentToNextDip": 0.93,
       "lastLive": "2025-08-15T07:00:00.000Z",
       "lifetimeInDays": 144,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Erica_9",
+      "id": "Erica_10",
       "sheetName": "Erica",
       "rank": 242,
       "userId": "mcrarity_",
@@ -199,10 +219,10 @@
       "percentToNextDip": 0.83,
       "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 334,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Erica_10",
+      "id": "Erica_11",
       "sheetName": "Erica",
       "rank": 264,
       "userId": "neonlightsatnight94",
@@ -219,10 +239,10 @@
       "percentToNextDip": 0.66,
       "lastLive": "2025-08-13T07:00:00.000Z",
       "lifetimeInDays": 290,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Erica_11",
+      "id": "Erica_12",
       "sheetName": "Erica",
       "rank": 267,
       "userId": "graceb255",
@@ -237,12 +257,12 @@
       "progress1540": null,
       "progress22100": null,
       "percentToNextDip": 0.97,
-      "lastLive": "2025-08-17T07:00:00.000Z",
+      "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 391,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Erica_12",
+      "id": "Erica_13",
       "sheetName": "Erica",
       "rank": 279,
       "userId": "whoisakaroyce",
@@ -257,12 +277,12 @@
       "progress1540": null,
       "progress22100": null,
       "percentToNextDip": 0.92,
-      "lastLive": "2025-08-17T07:00:00.000Z",
+      "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 298,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Erica_13",
+      "id": "Erica_14",
       "sheetName": "Erica",
       "rank": 283,
       "userId": "bigvirttheone",
@@ -279,10 +299,10 @@
       "percentToNextDip": 0.94,
       "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 376,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Erica_14",
+      "id": "Erica_15",
       "sheetName": "Erica",
       "rank": 291,
       "userId": "vtuberemma",
@@ -299,10 +319,10 @@
       "percentToNextDip": 0.59,
       "lastLive": "2025-08-12T07:00:00.000Z",
       "lifetimeInDays": 149,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Erica_15",
+      "id": "Erica_16",
       "sheetName": "Erica",
       "rank": 313,
       "userId": "never.hesit8",
@@ -319,10 +339,10 @@
       "percentToNextDip": 0.69,
       "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 363,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Erica_16",
+      "id": "Erica_17",
       "sheetName": "Erica",
       "rank": 326,
       "userId": "theterrorofdeath",
@@ -339,10 +359,10 @@
       "percentToNextDip": 0.97,
       "lastLive": "2025-08-17T07:00:00.000Z",
       "lifetimeInDays": 375,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Erica_17",
+      "id": "Erica_18",
       "sheetName": "Erica",
       "rank": 339,
       "userId": "ayoceez_",
@@ -359,10 +379,10 @@
       "percentToNextDip": 0.94,
       "lastLive": "2025-08-16T07:00:00.000Z",
       "lifetimeInDays": 361,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Erica_18",
+      "id": "Erica_19",
       "sheetName": "Erica",
       "rank": 469,
       "userId": "dj_moosebaby",
@@ -379,10 +399,10 @@
       "percentToNextDip": 0.48,
       "lastLive": "2025-08-17T07:00:00.000Z",
       "lifetimeInDays": 379,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Erica_19",
+      "id": "Erica_20",
       "sheetName": "Erica",
       "rank": 497,
       "userId": "mary98_98",
@@ -399,10 +419,10 @@
       "percentToNextDip": 0.61,
       "lastLive": "2025-08-16T07:00:00.000Z",
       "lifetimeInDays": 776,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Erica_20",
+      "id": "Erica_21",
       "sheetName": "Erica",
       "rank": 524,
       "userId": "minitruckinkeith",
@@ -419,10 +439,10 @@
       "percentToNextDip": 0.39,
       "lastLive": "2025-08-06T07:00:00.000Z",
       "lifetimeInDays": 778,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Erica_21",
+      "id": "Erica_22",
       "sheetName": "Erica",
       "rank": 546,
       "userId": "hacendado.habibi",
@@ -439,10 +459,10 @@
       "percentToNextDip": 0.33,
       "lastLive": "2025-07-30T07:00:00.000Z",
       "lifetimeInDays": 357,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Erica_22",
+      "id": "Erica_23",
       "sheetName": "Erica",
       "rank": 572,
       "userId": "samael_nocturne",
@@ -459,10 +479,10 @@
       "percentToNextDip": 0.5,
       "lastLive": "2025-08-16T07:00:00.000Z",
       "lifetimeInDays": 391,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Erica_23",
+      "id": "Erica_24",
       "sheetName": "Erica",
       "rank": 597,
       "userId": "destinedforgreatness20",
@@ -479,10 +499,10 @@
       "percentToNextDip": 0.36,
       "lastLive": "2025-08-13T07:00:00.000Z",
       "lifetimeInDays": 609,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Erica_24",
+      "id": "Erica_25",
       "sheetName": "Erica",
       "rank": 636,
       "userId": "yts.nyahh",
@@ -499,10 +519,10 @@
       "percentToNextDip": 0.43,
       "lastLive": "2025-08-15T07:00:00.000Z",
       "lifetimeInDays": 326,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Erica_25",
+      "id": "Erica_26",
       "sheetName": "Erica",
       "rank": 684,
       "userId": "unhinged1",
@@ -519,10 +539,10 @@
       "percentToNextDip": 0.94,
       "lastLive": "2025-08-17T07:00:00.000Z",
       "lifetimeInDays": 606,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Erica_26",
+      "id": "Erica_27",
       "sheetName": "Erica",
       "rank": 738,
       "userId": "zandra_queen",
@@ -539,10 +559,10 @@
       "percentToNextDip": 0.46,
       "lastLive": "2025-08-17T07:00:00.000Z",
       "lifetimeInDays": 604,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Erica_27",
+      "id": "Erica_28",
       "sheetName": "Erica",
       "rank": 895,
       "userId": "saralimitless",
@@ -559,10 +579,10 @@
       "percentToNextDip": 0.43,
       "lastLive": "2025-08-09T07:00:00.000Z",
       "lifetimeInDays": 594,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Erica_28",
+      "id": "Erica_29",
       "sheetName": "Erica",
       "rank": 896,
       "userId": "_x.iamani_",
@@ -579,12 +599,12 @@
       "percentToNextDip": 0.34,
       "lastLive": "2025-08-14T07:00:00.000Z",
       "lifetimeInDays": 511,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Erica_29",
+      "id": "Erica_30",
       "sheetName": "Erica",
-      "rank": 989,
+      "rank": 990,
       "userId": "heartlessdaze",
       "cid": "7359138041551781888",
       "agentName": "Erica",
@@ -599,12 +619,12 @@
       "percentToNextDip": 0.67,
       "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 267,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Erica_30",
+      "id": "Erica_31",
       "sheetName": "Erica",
-      "rank": 990,
+      "rank": 991,
       "userId": "credizzi",
       "cid": "7359137087951962112",
       "agentName": "Erica",
@@ -619,12 +639,12 @@
       "percentToNextDip": 0.33,
       "lastLive": "2025-07-05T07:00:00.000Z",
       "lifetimeInDays": 631,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Erica_31",
+      "id": "Erica_32",
       "sheetName": "Erica",
-      "rank": 991,
+      "rank": 992,
       "userId": "joeyraiidz",
       "cid": "7413618510741536768",
       "agentName": "Erica",
@@ -639,12 +659,12 @@
       "percentToNextDip": 0.33,
       "lastLive": "2025-07-19T07:00:00.000Z",
       "lifetimeInDays": 341,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Erica_32",
+      "id": "Erica_33",
       "sheetName": "Erica",
-      "rank": 992,
+      "rank": 993,
       "userId": "xile_ravenz",
       "cid": "7359136298793336832",
       "agentName": "Erica",
@@ -659,12 +679,12 @@
       "percentToNextDip": 0.33,
       "lastLive": "2025-07-25T07:00:00.000Z",
       "lifetimeInDays": 694,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Erica_33",
+      "id": "Erica_34",
       "sheetName": "Erica",
-      "rank": 993,
+      "rank": 994,
       "userId": "fabiang_thelaw",
       "cid": "7417993268241285120",
       "agentName": "Erica",
@@ -679,12 +699,12 @@
       "percentToNextDip": 0.33,
       "lastLive": "2025-07-09T07:00:00.000Z",
       "lifetimeInDays": 329,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Erica_34",
+      "id": "Erica_35",
       "sheetName": "Erica",
-      "rank": 994,
+      "rank": 995,
       "userId": "originalbrazilian",
       "cid": "7359137868742754304",
       "agentName": "Erica",
@@ -699,12 +719,12 @@
       "percentToNextDip": 0.54,
       "lastLive": "2025-08-16T07:00:00.000Z",
       "lifetimeInDays": 357,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Erica_35",
+      "id": "Erica_36",
       "sheetName": "Erica",
-      "rank": 995,
+      "rank": 996,
       "userId": "periphery.flux",
       "cid": "7413910981430231040",
       "agentName": "Erica",
@@ -719,12 +739,12 @@
       "percentToNextDip": 0.55,
       "lastLive": "2025-08-16T07:00:00.000Z",
       "lifetimeInDays": 340,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Erica_36",
+      "id": "Erica_37",
       "sheetName": "Erica",
-      "rank": 996,
+      "rank": 997,
       "userId": "ttsummernova",
       "cid": "7359138368015400960",
       "agentName": "Erica",
@@ -739,12 +759,12 @@
       "percentToNextDip": 0.34,
       "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 375,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Erica_37",
+      "id": "Erica_38",
       "sheetName": "Erica",
-      "rank": 997,
+      "rank": 998,
       "userId": "lbtgrieses",
       "cid": "7359138701319864320",
       "agentName": "Erica",
@@ -759,12 +779,12 @@
       "percentToNextDip": 0.34,
       "lastLive": "2025-08-07T07:00:00.000Z",
       "lifetimeInDays": 538,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Erica_38",
+      "id": "Erica_39",
       "sheetName": "Erica",
-      "rank": 998,
+      "rank": 999,
       "userId": "ttvcharmeerr",
       "cid": "7410587292919676928",
       "agentName": "Erica",
@@ -779,10 +799,10 @@
       "percentToNextDip": 0.33,
       "lastLive": "2025-07-06T07:00:00.000Z",
       "lifetimeInDays": 349,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     }
   ],
-  "timestamp": "2025-08-19T11:15:32.600Z",
-  "count": 39,
+  "timestamp": "2025-08-19T17:45:07.769Z",
+  "count": 40,
   "sheetName": "Erica"
 }
