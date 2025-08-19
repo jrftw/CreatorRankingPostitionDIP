@@ -17,9 +17,9 @@
       "progress1540": null,
       "progress22100": null,
       "percentToNextDip": 0.82,
-      "lastLive": "2025-08-16T07:00:00.000Z",
+      "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 522,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
       "id": "Rouge_1",
@@ -37,9 +37,9 @@
       "progress1540": null,
       "progress22100": null,
       "percentToNextDip": 0.92,
-      "lastLive": "2025-08-17T07:00:00.000Z",
+      "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 529,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
       "id": "Rouge_2",
@@ -57,9 +57,9 @@
       "progress1540": null,
       "progress22100": null,
       "percentToNextDip": 0.33,
-      "lastLive": "2025-07-28T07:00:00.000Z",
+      "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 714,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
       "id": "Rouge_3",
@@ -77,9 +77,9 @@
       "progress1540": null,
       "progress22100": null,
       "percentToNextDip": 0.68,
-      "lastLive": "2025-08-17T07:00:00.000Z",
+      "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 115,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
       "id": "Rouge_4",
@@ -99,7 +99,7 @@
       "percentToNextDip": 0.59,
       "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 5,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
       "id": "Rouge_5",
@@ -119,7 +119,7 @@
       "percentToNextDip": 0.61,
       "lastLive": "2025-08-06T07:00:00.000Z",
       "lifetimeInDays": 100,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
       "id": "Rouge_6",
@@ -139,7 +139,7 @@
       "percentToNextDip": 0.39,
       "lastLive": "2025-08-01T07:00:00.000Z",
       "lifetimeInDays": 109,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
       "id": "Rouge_7",
@@ -159,7 +159,7 @@
       "percentToNextDip": 0.67,
       "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 705,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
       "id": "Rouge_8",
@@ -179,7 +179,7 @@
       "percentToNextDip": 0.74,
       "lastLive": "2025-08-16T07:00:00.000Z",
       "lifetimeInDays": 110,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
       "id": "Rouge_9",
@@ -197,9 +197,9 @@
       "progress1540": null,
       "progress22100": null,
       "percentToNextDip": 0.35,
-      "lastLive": "2025-08-12T07:00:00.000Z",
+      "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 554,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
       "id": "Rouge_10",
@@ -219,12 +219,12 @@
       "percentToNextDip": 0.4,
       "lastLive": "2025-08-10T07:00:00.000Z",
       "lifetimeInDays": 645,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
       "id": "Rouge_11",
       "sheetName": "Rouge",
-      "rank": 2329,
+      "rank": 2328,
       "userId": "iamtoxic92",
       "cid": "7410984007460061184",
       "agentName": "Rouge",
@@ -239,12 +239,12 @@
       "percentToNextDip": 0.33,
       "lastLive": "2025-07-30T07:00:00.000Z",
       "lifetimeInDays": 348,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
       "id": "Rouge_12",
       "sheetName": "Rouge",
-      "rank": 2330,
+      "rank": 2329,
       "userId": "naughtnauticalstar36",
       "cid": "7359139434144628736",
       "agentName": "Rouge",
@@ -259,12 +259,12 @@
       "percentToNextDip": 0.33,
       "lastLive": "2025-07-15T07:00:00.000Z",
       "lifetimeInDays": 508,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
       "id": "Rouge_13",
       "sheetName": "Rouge",
-      "rank": 2331,
+      "rank": 2330,
       "userId": "destined2be_authentic",
       "cid": "7359136829687300096",
       "agentName": "Rouge",
@@ -279,10 +279,10 @@
       "percentToNextDip": 0.33,
       "lastLive": "2025-07-01T07:00:00.000Z",
       "lifetimeInDays": 650,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     }
   ],
-  "timestamp": "2025-08-19T11:15:40.037Z",
+  "timestamp": "2025-08-19T17:45:15.756Z",
   "count": 14,
   "sheetName": "Rouge"
 }
