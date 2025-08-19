@@ -19,7 +19,7 @@
       "percentToNextDip": 0.91,
       "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 289,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
       "id": "Chris_1",
@@ -39,7 +39,7 @@
       "percentToNextDip": 0.98,
       "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 522,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
       "id": "Chris_2",
@@ -57,9 +57,9 @@
       "progress1540": null,
       "progress22100": null,
       "percentToNextDip": 0.65,
-      "lastLive": "2025-08-17T07:00:00.000Z",
+      "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 214,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
       "id": "Chris_3",
@@ -79,7 +79,7 @@
       "percentToNextDip": 0.97,
       "lastLive": "2025-08-17T07:00:00.000Z",
       "lifetimeInDays": 40,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
       "id": "Chris_4",
@@ -97,9 +97,9 @@
       "progress1540": null,
       "progress22100": null,
       "percentToNextDip": 0.81,
-      "lastLive": "2025-08-13T07:00:00.000Z",
+      "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 235,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
       "id": "Chris_5",
@@ -119,7 +119,7 @@
       "percentToNextDip": 0.97,
       "lastLive": "2025-08-16T07:00:00.000Z",
       "lifetimeInDays": 22,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
       "id": "Chris_6",
@@ -137,9 +137,9 @@
       "progress1540": null,
       "progress22100": null,
       "percentToNextDip": 0.83,
-      "lastLive": "2025-08-15T07:00:00.000Z",
+      "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 348,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
       "id": "Chris_7",
@@ -159,7 +159,7 @@
       "percentToNextDip": 0.9,
       "lastLive": "2025-08-17T07:00:00.000Z",
       "lifetimeInDays": 84,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
       "id": "Chris_8",
@@ -179,7 +179,7 @@
       "percentToNextDip": 0.84,
       "lastLive": "2025-08-17T07:00:00.000Z",
       "lifetimeInDays": 17,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
       "id": "Chris_9",
@@ -199,7 +199,7 @@
       "percentToNextDip": 0.98,
       "lastLive": "2025-08-17T07:00:00.000Z",
       "lifetimeInDays": 48,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
       "id": "Chris_10",
@@ -219,30 +219,10 @@
       "percentToNextDip": 0.93,
       "lastLive": "2025-08-17T07:00:00.000Z",
       "lifetimeInDays": 189,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
       "id": "Chris_11",
-      "sheetName": "Chris",
-      "rank": 130,
-      "userId": "exlusive92",
-      "cid": "7483304886939942912",
-      "agentName": "Chris",
-      "ttRank": null,
-      "dipTier": "No Tier",
-      "nextRankDiamonds": 292,
-      "validDays": 7,
-      "hours": 19.11,
-      "progress1225": null,
-      "progress1540": null,
-      "progress22100": null,
-      "percentToNextDip": 0.78,
-      "lastLive": "2025-08-15T07:00:00.000Z",
-      "lifetimeInDays": 153,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
-    },
-    {
-      "id": "Chris_12",
       "sheetName": "Chris",
       "rank": 132,
       "userId": "adab_ado",
@@ -259,10 +239,10 @@
       "percentToNextDip": 0.79,
       "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 333,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_13",
+      "id": "Chris_12",
       "sheetName": "Chris",
       "rank": 134,
       "userId": "ripcitybruh",
@@ -279,10 +259,10 @@
       "percentToNextDip": 0.94,
       "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 284,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_14",
+      "id": "Chris_13",
       "sheetName": "Chris",
       "rank": 166,
       "userId": "pickle_rick412",
@@ -299,10 +279,10 @@
       "percentToNextDip": 0.56,
       "lastLive": "2025-08-17T07:00:00.000Z",
       "lifetimeInDays": 240,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_15",
+      "id": "Chris_14",
       "sheetName": "Chris",
       "rank": 167,
       "userId": "fr0ske",
@@ -319,10 +299,10 @@
       "percentToNextDip": 0.86,
       "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 8,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_16",
+      "id": "Chris_15",
       "sheetName": "Chris",
       "rank": 172,
       "userId": "itzkashduh",
@@ -339,10 +319,10 @@
       "percentToNextDip": 0.74,
       "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 172,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_17",
+      "id": "Chris_16",
       "sheetName": "Chris",
       "rank": 178,
       "userId": "duhwezz",
@@ -359,10 +339,10 @@
       "percentToNextDip": 0.42,
       "lastLive": "2025-08-08T07:00:00.000Z",
       "lifetimeInDays": 145,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_18",
+      "id": "Chris_17",
       "sheetName": "Chris",
       "rank": 179,
       "userId": "green_83_",
@@ -377,12 +357,12 @@
       "progress1540": null,
       "progress22100": null,
       "percentToNextDip": 0.74,
-      "lastLive": "2025-08-16T07:00:00.000Z",
+      "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 100,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_19",
+      "id": "Chris_18",
       "sheetName": "Chris",
       "rank": 224,
       "userId": "kimchi06122",
@@ -397,12 +377,12 @@
       "progress1540": null,
       "progress22100": null,
       "percentToNextDip": 0.94,
-      "lastLive": "2025-08-16T07:00:00.000Z",
+      "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 184,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_20",
+      "id": "Chris_19",
       "sheetName": "Chris",
       "rank": 244,
       "userId": "jailbreakgaming_",
@@ -417,12 +397,12 @@
       "progress1540": null,
       "progress22100": null,
       "percentToNextDip": 0.7,
-      "lastLive": "2025-08-17T07:00:00.000Z",
+      "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 392,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_21",
+      "id": "Chris_20",
       "sheetName": "Chris",
       "rank": 247,
       "userId": "itzchoppaaa",
@@ -439,10 +419,10 @@
       "percentToNextDip": 0.7,
       "lastLive": "2025-08-17T07:00:00.000Z",
       "lifetimeInDays": 657,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_22",
+      "id": "Chris_21",
       "sheetName": "Chris",
       "rank": 276,
       "userId": "paigee_codm",
@@ -459,10 +439,10 @@
       "percentToNextDip": 0.64,
       "lastLive": "2025-08-17T07:00:00.000Z",
       "lifetimeInDays": 163,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_23",
+      "id": "Chris_22",
       "sheetName": "Chris",
       "rank": 288,
       "userId": "official_gxp",
@@ -477,12 +457,12 @@
       "progress1540": null,
       "progress22100": null,
       "percentToNextDip": 0.92,
-      "lastLive": "2025-08-15T07:00:00.000Z",
+      "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 604,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_24",
+      "id": "Chris_23",
       "sheetName": "Chris",
       "rank": 304,
       "userId": "aquardtv",
@@ -499,10 +479,10 @@
       "percentToNextDip": 0.92,
       "lastLive": "2025-08-16T07:00:00.000Z",
       "lifetimeInDays": 180,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_25",
+      "id": "Chris_24",
       "sheetName": "Chris",
       "rank": 305,
       "userId": "gymratgamerdad",
@@ -519,10 +499,10 @@
       "percentToNextDip": 0.69,
       "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 82,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_26",
+      "id": "Chris_25",
       "sheetName": "Chris",
       "rank": 308,
       "userId": "zaddyera",
@@ -539,10 +519,10 @@
       "percentToNextDip": 0.65,
       "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 482,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_27",
+      "id": "Chris_26",
       "sheetName": "Chris",
       "rank": 311,
       "userId": "ladyfatality",
@@ -559,10 +539,10 @@
       "percentToNextDip": 0.74,
       "lastLive": "2025-08-09T07:00:00.000Z",
       "lifetimeInDays": 343,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_28",
+      "id": "Chris_27",
       "sheetName": "Chris",
       "rank": 314,
       "userId": "wizdarealest",
@@ -579,10 +559,10 @@
       "percentToNextDip": 0.94,
       "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 142,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_29",
+      "id": "Chris_28",
       "sheetName": "Chris",
       "rank": 346,
       "userId": "djnumonic",
@@ -599,10 +579,10 @@
       "percentToNextDip": 0.68,
       "lastLive": "2025-08-16T07:00:00.000Z",
       "lifetimeInDays": 163,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_30",
+      "id": "Chris_29",
       "sheetName": "Chris",
       "rank": 366,
       "userId": "abraxez_",
@@ -619,10 +599,10 @@
       "percentToNextDip": 0.92,
       "lastLive": "2025-08-16T07:00:00.000Z",
       "lifetimeInDays": 47,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_31",
+      "id": "Chris_30",
       "sheetName": "Chris",
       "rank": 380,
       "userId": "v2teejay",
@@ -639,10 +619,10 @@
       "percentToNextDip": 0.68,
       "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 18,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_32",
+      "id": "Chris_31",
       "sheetName": "Chris",
       "rank": 386,
       "userId": "therealrumz",
@@ -657,12 +637,12 @@
       "progress1540": null,
       "progress22100": null,
       "percentToNextDip": 0.68,
-      "lastLive": "2025-08-17T07:00:00.000Z",
+      "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 14,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_33",
+      "id": "Chris_32",
       "sheetName": "Chris",
       "rank": 390,
       "userId": "rockenbock",
@@ -679,10 +659,10 @@
       "percentToNextDip": 0.68,
       "lastLive": "2025-08-17T07:00:00.000Z",
       "lifetimeInDays": 649,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_34",
+      "id": "Chris_33",
       "sheetName": "Chris",
       "rank": 399,
       "userId": "uhlysiiia",
@@ -699,10 +679,10 @@
       "percentToNextDip": 0.41,
       "lastLive": "2025-08-01T07:00:00.000Z",
       "lifetimeInDays": 18,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_35",
+      "id": "Chris_34",
       "sheetName": "Chris",
       "rank": 400,
       "userId": "thekingjabroni",
@@ -719,10 +699,10 @@
       "percentToNextDip": 0.58,
       "lastLive": "2025-08-15T07:00:00.000Z",
       "lifetimeInDays": 139,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_36",
+      "id": "Chris_35",
       "sheetName": "Chris",
       "rank": 417,
       "userId": "tyler.hummel5",
@@ -739,10 +719,10 @@
       "percentToNextDip": 0.76,
       "lastLive": "2025-08-16T07:00:00.000Z",
       "lifetimeInDays": 104,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_37",
+      "id": "Chris_36",
       "sheetName": "Chris",
       "rank": 420,
       "userId": "greyman_g",
@@ -757,12 +737,12 @@
       "progress1540": null,
       "progress22100": null,
       "percentToNextDip": 0.46,
-      "lastLive": "2025-08-15T07:00:00.000Z",
+      "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 68,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_38",
+      "id": "Chris_37",
       "sheetName": "Chris",
       "rank": 439,
       "userId": "xcaptaindaddy",
@@ -779,10 +759,10 @@
       "percentToNextDip": 0.92,
       "lastLive": "2025-08-15T07:00:00.000Z",
       "lifetimeInDays": 55,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_39",
+      "id": "Chris_38",
       "sheetName": "Chris",
       "rank": 445,
       "userId": "andrickd",
@@ -799,10 +779,10 @@
       "percentToNextDip": 0.66,
       "lastLive": "2025-08-16T07:00:00.000Z",
       "lifetimeInDays": 163,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_40",
+      "id": "Chris_39",
       "sheetName": "Chris",
       "rank": 465,
       "userId": "lordwizbie_arise",
@@ -819,10 +799,10 @@
       "percentToNextDip": 0.45,
       "lastLive": "2025-08-06T07:00:00.000Z",
       "lifetimeInDays": 190,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_41",
+      "id": "Chris_40",
       "sheetName": "Chris",
       "rank": 481,
       "userId": "alexg_twitch",
@@ -839,10 +819,10 @@
       "percentToNextDip": 0.72,
       "lastLive": "2025-08-16T07:00:00.000Z",
       "lifetimeInDays": 168,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_42",
+      "id": "Chris_41",
       "sheetName": "Chris",
       "rank": 486,
       "userId": "crankog",
@@ -859,10 +839,10 @@
       "percentToNextDip": 0.67,
       "lastLive": "2025-08-13T07:00:00.000Z",
       "lifetimeInDays": 47,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_43",
+      "id": "Chris_42",
       "sheetName": "Chris",
       "rank": 502,
       "userId": "readingrogue_gaming",
@@ -879,10 +859,10 @@
       "percentToNextDip": 0.49,
       "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 510,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_44",
+      "id": "Chris_43",
       "sheetName": "Chris",
       "rank": 505,
       "userId": "creepyreapyttv",
@@ -899,10 +879,10 @@
       "percentToNextDip": 0.94,
       "lastLive": "2025-08-16T07:00:00.000Z",
       "lifetimeInDays": 362,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_45",
+      "id": "Chris_44",
       "sheetName": "Chris",
       "rank": 534,
       "userId": "showtime2wavy",
@@ -917,12 +897,12 @@
       "progress1540": null,
       "progress22100": null,
       "percentToNextDip": 0.66,
-      "lastLive": "2025-08-13T07:00:00.000Z",
+      "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 189,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_46",
+      "id": "Chris_45",
       "sheetName": "Chris",
       "rank": 542,
       "userId": "hananxoxo_",
@@ -937,12 +917,12 @@
       "progress1540": null,
       "progress22100": null,
       "percentToNextDip": 0.56,
-      "lastLive": "2025-08-15T07:00:00.000Z",
+      "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 6,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_47",
+      "id": "Chris_46",
       "sheetName": "Chris",
       "rank": 548,
       "userId": "mattyicebalakay",
@@ -957,12 +937,12 @@
       "progress1540": null,
       "progress22100": null,
       "percentToNextDip": 0.67,
-      "lastLive": "2025-08-17T07:00:00.000Z",
+      "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 551,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_48",
+      "id": "Chris_47",
       "sheetName": "Chris",
       "rank": 554,
       "userId": "rtm_kell",
@@ -979,10 +959,10 @@
       "percentToNextDip": 0.49,
       "lastLive": "2025-08-13T07:00:00.000Z",
       "lifetimeInDays": 189,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_49",
+      "id": "Chris_48",
       "sheetName": "Chris",
       "rank": 560,
       "userId": "danh_officiall",
@@ -997,12 +977,12 @@
       "progress1540": null,
       "progress22100": null,
       "percentToNextDip": 0.89,
-      "lastLive": "2025-08-14T07:00:00.000Z",
+      "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 353,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_50",
+      "id": "Chris_49",
       "sheetName": "Chris",
       "rank": 587,
       "userId": "nytelotus_fyre",
@@ -1017,12 +997,12 @@
       "progress1540": null,
       "progress22100": null,
       "percentToNextDip": 0.74,
-      "lastLive": "2025-08-17T07:00:00.000Z",
+      "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 176,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_51",
+      "id": "Chris_50",
       "sheetName": "Chris",
       "rank": 631,
       "userId": "vadersdarkness",
@@ -1039,10 +1019,10 @@
       "percentToNextDip": 0.51,
       "lastLive": "2025-08-15T07:00:00.000Z",
       "lifetimeInDays": 22,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_52",
+      "id": "Chris_51",
       "sheetName": "Chris",
       "rank": 635,
       "userId": "cheesydownunder",
@@ -1059,10 +1039,10 @@
       "percentToNextDip": 0.38,
       "lastLive": "2025-08-07T07:00:00.000Z",
       "lifetimeInDays": 59,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_53",
+      "id": "Chris_52",
       "sheetName": "Chris",
       "rank": 638,
       "userId": "spottsspace",
@@ -1079,10 +1059,10 @@
       "percentToNextDip": 0.38,
       "lastLive": "2025-08-13T07:00:00.000Z",
       "lifetimeInDays": 503,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_54",
+      "id": "Chris_53",
       "sheetName": "Chris",
       "rank": 660,
       "userId": "sonicwahlberg88",
@@ -1099,10 +1079,10 @@
       "percentToNextDip": 0.71,
       "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 825,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_55",
+      "id": "Chris_54",
       "sheetName": "Chris",
       "rank": 665,
       "userId": "skrapdabilly93",
@@ -1119,10 +1099,10 @@
       "percentToNextDip": 0.75,
       "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 629,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_56",
+      "id": "Chris_55",
       "sheetName": "Chris",
       "rank": 713,
       "userId": "dnighty_",
@@ -1139,10 +1119,10 @@
       "percentToNextDip": 0.73,
       "lastLive": "2025-08-17T07:00:00.000Z",
       "lifetimeInDays": 29,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_57",
+      "id": "Chris_56",
       "sheetName": "Chris",
       "rank": 716,
       "userId": "thecakepounder",
@@ -1159,10 +1139,10 @@
       "percentToNextDip": 0.43,
       "lastLive": "2025-08-11T07:00:00.000Z",
       "lifetimeInDays": 104,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_58",
+      "id": "Chris_57",
       "sheetName": "Chris",
       "rank": 721,
       "userId": "dayumbryce",
@@ -1179,10 +1159,10 @@
       "percentToNextDip": 0.75,
       "lastLive": "2025-08-09T07:00:00.000Z",
       "lifetimeInDays": 176,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_59",
+      "id": "Chris_58",
       "sheetName": "Chris",
       "rank": 810,
       "userId": "poe_gaming_",
@@ -1199,10 +1179,10 @@
       "percentToNextDip": 0.63,
       "lastLive": "2025-08-17T07:00:00.000Z",
       "lifetimeInDays": 119,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_60",
+      "id": "Chris_59",
       "sheetName": "Chris",
       "rank": 817,
       "userId": "detroitjaz",
@@ -1219,10 +1199,10 @@
       "percentToNextDip": 0.43,
       "lastLive": "2025-08-13T07:00:00.000Z",
       "lifetimeInDays": 631,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_61",
+      "id": "Chris_60",
       "sheetName": "Chris",
       "rank": 850,
       "userId": "fransccc",
@@ -1239,10 +1219,10 @@
       "percentToNextDip": 0.35,
       "lastLive": "2025-08-17T07:00:00.000Z",
       "lifetimeInDays": 131,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_62",
+      "id": "Chris_61",
       "sheetName": "Chris",
       "rank": 888,
       "userId": "isawursloth",
@@ -1259,10 +1239,10 @@
       "percentToNextDip": 0.61,
       "lastLive": "2025-08-14T07:00:00.000Z",
       "lifetimeInDays": 46,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_63",
+      "id": "Chris_62",
       "sheetName": "Chris",
       "rank": 889,
       "userId": "wadexcosplay",
@@ -1277,12 +1257,12 @@
       "progress1540": null,
       "progress22100": null,
       "percentToNextDip": 0.57,
-      "lastLive": "2025-08-15T07:00:00.000Z",
+      "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 316,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_64",
+      "id": "Chris_63",
       "sheetName": "Chris",
       "rank": 925,
       "userId": "simply_kan",
@@ -1299,10 +1279,10 @@
       "percentToNextDip": 0.33,
       "lastLive": "2025-07-27T07:00:00.000Z",
       "lifetimeInDays": 385,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_65",
+      "id": "Chris_64",
       "sheetName": "Chris",
       "rank": 926,
       "userId": "zoeboydillon",
@@ -1319,10 +1299,10 @@
       "percentToNextDip": 0.33,
       "lastLive": "2025-07-29T07:00:00.000Z",
       "lifetimeInDays": 159,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_66",
+      "id": "Chris_65",
       "sheetName": "Chris",
       "rank": 927,
       "userId": "marielaur_",
@@ -1339,10 +1319,10 @@
       "percentToNextDip": 0.33,
       "lastLive": "2025-07-26T07:00:00.000Z",
       "lifetimeInDays": 186,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_67",
+      "id": "Chris_66",
       "sheetName": "Chris",
       "rank": 928,
       "userId": "xxclusive.mmxx",
@@ -1359,10 +1339,10 @@
       "percentToNextDip": 0.33,
       "lastLive": "2025-08-11T07:00:00.000Z",
       "lifetimeInDays": 342,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_68",
+      "id": "Chris_67",
       "sheetName": "Chris",
       "rank": 929,
       "userId": "grepe.yt",
@@ -1379,10 +1359,10 @@
       "percentToNextDip": 0.33,
       "lastLive": "2025-07-23T07:00:00.000Z",
       "lifetimeInDays": 166,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_69",
+      "id": "Chris_68",
       "sheetName": "Chris",
       "rank": 930,
       "userId": "boomshakillaka",
@@ -1399,10 +1379,10 @@
       "percentToNextDip": 0.33,
       "lastLive": "2025-08-17T07:00:00.000Z",
       "lifetimeInDays": 2,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_70",
+      "id": "Chris_69",
       "sheetName": "Chris",
       "rank": 931,
       "userId": "famousdropz",
@@ -1419,10 +1399,10 @@
       "percentToNextDip": 0.33,
       "lastLive": "2025-07-25T07:00:00.000Z",
       "lifetimeInDays": 130,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_71",
+      "id": "Chris_70",
       "sheetName": "Chris",
       "rank": 932,
       "userId": "therealg3n3ral",
@@ -1439,10 +1419,10 @@
       "percentToNextDip": 0.33,
       "lastLive": "2025-07-25T07:00:00.000Z",
       "lifetimeInDays": 106,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_72",
+      "id": "Chris_71",
       "sheetName": "Chris",
       "rank": 933,
       "userId": "godsking95",
@@ -1459,10 +1439,10 @@
       "percentToNextDip": 0.38,
       "lastLive": "2025-08-04T07:00:00.000Z",
       "lifetimeInDays": 132,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_73",
+      "id": "Chris_72",
       "sheetName": "Chris",
       "rank": 934,
       "userId": "charlesastronaut",
@@ -1477,12 +1457,12 @@
       "progress1540": null,
       "progress22100": null,
       "percentToNextDip": 0.33,
-      "lastLive": "2025-08-11T07:00:00.000Z",
+      "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 8,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_74",
+      "id": "Chris_73",
       "sheetName": "Chris",
       "rank": 935,
       "userId": "wumpalive",
@@ -1499,10 +1479,10 @@
       "percentToNextDip": 0.33,
       "lastLive": "2025-07-31T07:00:00.000Z",
       "lifetimeInDays": 571,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_75",
+      "id": "Chris_74",
       "sheetName": "Chris",
       "rank": 936,
       "userId": "itsjustrev._",
@@ -1519,10 +1499,10 @@
       "percentToNextDip": 0.46,
       "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 14,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_76",
+      "id": "Chris_75",
       "sheetName": "Chris",
       "rank": 937,
       "userId": "flamefightergaming",
@@ -1539,10 +1519,10 @@
       "percentToNextDip": 0.33,
       "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 170,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_77",
+      "id": "Chris_76",
       "sheetName": "Chris",
       "rank": 938,
       "userId": "xenostr3am",
@@ -1557,12 +1537,12 @@
       "progress1540": null,
       "progress22100": null,
       "percentToNextDip": 0.57,
-      "lastLive": "2025-08-17T07:00:00.000Z",
+      "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 586,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     },
     {
-      "id": "Chris_78",
+      "id": "Chris_77",
       "sheetName": "Chris",
       "rank": 939,
       "userId": "bluecollarcollectibles",
@@ -1579,10 +1559,10 @@
       "percentToNextDip": 0.33,
       "lastLive": "2025-07-29T07:00:00.000Z",
       "lifetimeInDays": 31,
-      "lastUpdated": "Aug 18th 7:28 PM EST"
+      "lastUpdated": "Aug 19th 7:21 AM EST"
     }
   ],
-  "timestamp": "2025-08-19T11:15:29.539Z",
-  "count": 79,
+  "timestamp": "2025-08-19T17:45:04.196Z",
+  "count": 78,
   "sheetName": "Chris"
 }
