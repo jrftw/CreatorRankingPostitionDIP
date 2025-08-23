@@ -4,13 +4,13 @@
     {
       "id": "Thomas_0",
       "sheetName": "Thomas",
-      "rank": 260,
+      "rank": 266,
       "userId": "mr.tee.chap",
       "cid": "7359135363258023936",
       "agentName": "Thomas",
       "ttRank": null,
       "dipTier": "No Tier",
-      "nextRankDiamonds": 44,
+      "nextRankDiamonds": 26,
       "validDays": 3,
       "hours": 3.79,
       "progress1225": null,
@@ -18,11 +18,11 @@
       "progress22100": null,
       "percentToNextDip": 0.47,
       "lastLive": "2025-08-19T07:00:00.000Z",
-      "lifetimeInDays": 823,
-      "lastUpdated": "Aug 22nd 7:21 AM EST"
+      "lifetimeInDays": 824,
+      "lastUpdated": "Aug 23rd 12:29 AM EST"
     }
   ],
-  "timestamp": "2025-08-23T04:15:46.793Z",
+  "timestamp": "2025-08-23T10:45:18.092Z",
   "count": 1,
   "sheetName": "Thomas"
 }
