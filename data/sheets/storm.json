@@ -19,7 +19,7 @@
       "percentToNextDip": 0.51,
       "lastLive": "2025-08-22T07:00:00.000Z",
       "lifetimeInDays": 144,
-      "lastUpdated": "Aug 23rd 12:55 PM EST"
+      "lastUpdated": "Aug 24th 12:55 AM EST"
     },
     {
       "id": "Storm_1",
@@ -39,7 +39,7 @@
       "percentToNextDip": 0.33,
       "lastLive": "2025-07-01T07:00:00.000Z",
       "lifetimeInDays": 307,
-      "lastUpdated": "Aug 23rd 12:55 PM EST"
+      "lastUpdated": "Aug 24th 12:55 AM EST"
     },
     {
       "id": "Storm_2",
@@ -57,9 +57,9 @@
       "progress1540": null,
       "progress22100": null,
       "percentToNextDip": 0.66,
-      "lastLive": "2025-08-22T07:00:00.000Z",
+      "lastLive": "2025-08-23T07:00:00.000Z",
       "lifetimeInDays": 89,
-      "lastUpdated": "Aug 23rd 12:55 PM EST"
+      "lastUpdated": "Aug 24th 12:55 AM EST"
     },
     {
       "id": "Storm_3",
@@ -77,20 +77,40 @@
       "progress1540": null,
       "progress22100": null,
       "percentToNextDip": 0.9,
-      "lastLive": "2025-08-22T07:00:00.000Z",
+      "lastLive": "2025-08-23T07:00:00.000Z",
       "lifetimeInDays": 114,
-      "lastUpdated": "Aug 23rd 12:55 PM EST"
+      "lastUpdated": "Aug 24th 12:55 AM EST"
     },
     {
       "id": "Storm_4",
       "sheetName": "Storm",
-      "rank": 212,
+      "rank": 220,
+      "userId": "susiemartin263",
+      "cid": "7359138482473959424",
+      "agentName": "Storm",
+      "ttRank": null,
+      "dipTier": "Tier 1",
+      "nextRankDiamonds": 127,
+      "validDays": 18,
+      "hours": 35.78,
+      "progress1225": null,
+      "progress1540": null,
+      "progress22100": null,
+      "percentToNextDip": 0.73,
+      "lastLive": "2025-08-23T07:00:00.000Z",
+      "lifetimeInDays": 285,
+      "lastUpdated": "Aug 24th 12:55 AM EST"
+    },
+    {
+      "id": "Storm_5",
+      "sheetName": "Storm",
+      "rank": 224,
       "userId": ".mrclueless",
       "cid": "7359138535745519616",
       "agentName": "Storm",
       "ttRank": null,
       "dipTier": "No Tier",
-      "nextRankDiamonds": 348,
+      "nextRankDiamonds": 131,
       "validDays": 2,
       "hours": 3.23,
       "progress1225": null,
@@ -99,32 +119,32 @@
       "percentToNextDip": 0.43,
       "lastLive": "2025-08-17T07:00:00.000Z",
       "lifetimeInDays": 551,
-      "lastUpdated": "Aug 23rd 12:55 PM EST"
+      "lastUpdated": "Aug 24th 12:55 AM EST"
     },
     {
-      "id": "Storm_5",
+      "id": "Storm_6",
       "sheetName": "Storm",
-      "rank": 223,
+      "rank": 239,
       "userId": "time_2_shyne",
       "cid": "7510774895446638592",
       "agentName": "Storm",
       "ttRank": null,
       "dipTier": "No Tier",
-      "nextRankDiamonds": 133,
+      "nextRankDiamonds": 58,
       "validDays": 8,
       "hours": 15.48,
       "progress1225": null,
       "progress1540": null,
       "progress22100": null,
       "percentToNextDip": 0.76,
-      "lastLive": "2025-08-21T07:00:00.000Z",
+      "lastLive": "2025-08-23T07:00:00.000Z",
       "lifetimeInDays": 84,
-      "lastUpdated": "Aug 23rd 12:55 PM EST"
+      "lastUpdated": "Aug 24th 12:55 AM EST"
     },
     {
-      "id": "Storm_6",
+      "id": "Storm_7",
       "sheetName": "Storm",
-      "rank": 267,
+      "rank": 287,
       "userId": "itsandibitch",
       "cid": "7474095124079837184",
       "agentName": "Storm",
@@ -139,12 +159,12 @@
       "percentToNextDip": 0.34,
       "lastLive": "2025-08-01T07:00:00.000Z",
       "lifetimeInDays": 183,
-      "lastUpdated": "Aug 23rd 12:55 PM EST"
+      "lastUpdated": "Aug 24th 12:55 AM EST"
     },
     {
-      "id": "Storm_7",
+      "id": "Storm_8",
       "sheetName": "Storm",
-      "rank": 354,
+      "rank": 374,
       "userId": "shemeher80",
       "cid": "7497530548290830336",
       "agentName": "Storm",
@@ -159,12 +179,12 @@
       "percentToNextDip": 0.45,
       "lastLive": "2025-08-11T07:00:00.000Z",
       "lifetimeInDays": 120,
-      "lastUpdated": "Aug 23rd 12:55 PM EST"
+      "lastUpdated": "Aug 24th 12:55 AM EST"
     },
     {
-      "id": "Storm_8",
+      "id": "Storm_9",
       "sheetName": "Storm",
-      "rank": 385,
+      "rank": 405,
       "userId": "elizabethcr753",
       "cid": "7508614341009113088",
       "agentName": "Storm",
@@ -179,12 +199,12 @@
       "percentToNextDip": 0.42,
       "lastLive": "2025-08-10T07:00:00.000Z",
       "lifetimeInDays": 90,
-      "lastUpdated": "Aug 23rd 12:55 PM EST"
+      "lastUpdated": "Aug 24th 12:55 AM EST"
     },
     {
-      "id": "Storm_9",
+      "id": "Storm_10",
       "sheetName": "Storm",
-      "rank": 462,
+      "rank": 482,
       "userId": "michelleleeannamu",
       "cid": "7474824506108919808",
       "agentName": "Storm",
@@ -199,12 +219,12 @@
       "percentToNextDip": 0.62,
       "lastLive": "2025-08-17T07:00:00.000Z",
       "lifetimeInDays": 99,
-      "lastUpdated": "Aug 23rd 12:55 PM EST"
+      "lastUpdated": "Aug 24th 12:55 AM EST"
     },
     {
-      "id": "Storm_10",
+      "id": "Storm_11",
       "sheetName": "Storm",
-      "rank": 482,
+      "rank": 502,
       "userId": "in_gob_we_trust",
       "cid": "7371263102945558528",
       "agentName": "Storm",
@@ -217,14 +237,14 @@
       "progress1540": null,
       "progress22100": null,
       "percentToNextDip": 0.67,
-      "lastLive": "2025-08-22T07:00:00.000Z",
+      "lastLive": "2025-08-23T07:00:00.000Z",
       "lifetimeInDays": 460,
-      "lastUpdated": "Aug 23rd 12:55 PM EST"
+      "lastUpdated": "Aug 24th 12:55 AM EST"
     },
     {
-      "id": "Storm_11",
+      "id": "Storm_12",
       "sheetName": "Storm",
-      "rank": 579,
+      "rank": 599,
       "userId": "fent_d_nawyl",
       "cid": "7359138389880406016",
       "agentName": "Storm",
@@ -239,12 +259,12 @@
       "percentToNextDip": 0.33,
       "lastLive": "2025-07-05T07:00:00.000Z",
       "lifetimeInDays": 559,
-      "lastUpdated": "Aug 23rd 12:55 PM EST"
+      "lastUpdated": "Aug 24th 12:55 AM EST"
     },
     {
-      "id": "Storm_12",
+      "id": "Storm_13",
       "sheetName": "Storm",
-      "rank": 742,
+      "rank": 762,
       "userId": "jaidaa_ann",
       "cid": "7506209938218401792",
       "agentName": "Storm",
@@ -259,12 +279,12 @@
       "percentToNextDip": 0.35,
       "lastLive": "2025-08-23T07:00:00.000Z",
       "lifetimeInDays": 97,
-      "lastUpdated": "Aug 23rd 12:55 PM EST"
+      "lastUpdated": "Aug 24th 12:55 AM EST"
     },
     {
-      "id": "Storm_13",
+      "id": "Storm_14",
       "sheetName": "Storm",
-      "rank": 758,
+      "rank": 778,
       "userId": "trendingwithlindsey",
       "cid": "7539337590420324352",
       "agentName": "Storm",
@@ -277,14 +297,14 @@
       "progress1540": null,
       "progress22100": null,
       "percentToNextDip": 0.36,
-      "lastLive": "2025-08-22T07:00:00.000Z",
+      "lastLive": "2025-08-23T07:00:00.000Z",
       "lifetimeInDays": 7,
-      "lastUpdated": "Aug 23rd 12:55 PM EST"
+      "lastUpdated": "Aug 24th 12:55 AM EST"
     },
     {
-      "id": "Storm_14",
+      "id": "Storm_15",
       "sheetName": "Storm",
-      "rank": 926,
+      "rank": 946,
       "userId": "pegngremlin",
       "cid": "7359138348075646976",
       "agentName": "Storm",
@@ -299,12 +319,12 @@
       "percentToNextDip": 0.34,
       "lastLive": "2025-08-01T07:00:00.000Z",
       "lifetimeInDays": 563,
-      "lastUpdated": "Aug 23rd 12:55 PM EST"
+      "lastUpdated": "Aug 24th 12:55 AM EST"
     },
     {
-      "id": "Storm_15",
+      "id": "Storm_16",
       "sheetName": "Storm",
-      "rank": 2351,
+      "rank": 2371,
       "userId": "destinykenyon",
       "cid": "7359136394209427456",
       "agentName": "Storm",
@@ -319,12 +339,12 @@
       "percentToNextDip": 0.33,
       "lastLive": "2025-07-29T07:00:00.000Z",
       "lifetimeInDays": 689,
-      "lastUpdated": "Aug 23rd 12:55 PM EST"
+      "lastUpdated": "Aug 24th 12:55 AM EST"
     },
     {
-      "id": "Storm_16",
+      "id": "Storm_17",
       "sheetName": "Storm",
-      "rank": 2352,
+      "rank": 2372,
       "userId": "destinyjay00",
       "cid": "7369677554103468032",
       "agentName": "Storm",
@@ -339,12 +359,12 @@
       "percentToNextDip": 0.35,
       "lastLive": "2025-08-21T07:00:00.000Z",
       "lifetimeInDays": 465,
-      "lastUpdated": "Aug 23rd 12:55 PM EST"
+      "lastUpdated": "Aug 24th 12:55 AM EST"
     },
     {
-      "id": "Storm_17",
+      "id": "Storm_18",
       "sheetName": "Storm",
-      "rank": 2353,
+      "rank": 2373,
       "userId": "zucenamagsino",
       "cid": "7519336707695738880",
       "agentName": "Storm",
@@ -359,12 +379,12 @@
       "percentToNextDip": 0.34,
       "lastLive": "2025-08-17T07:00:00.000Z",
       "lifetimeInDays": 52,
-      "lastUpdated": "Aug 23rd 12:55 PM EST"
+      "lastUpdated": "Aug 24th 12:55 AM EST"
     },
     {
-      "id": "Storm_18",
+      "id": "Storm_19",
       "sheetName": "Storm",
-      "rank": 2354,
+      "rank": 2374,
       "userId": "briannabanksxo",
       "cid": "7359138988726386688",
       "agentName": "Storm",
@@ -379,12 +399,12 @@
       "percentToNextDip": 0.33,
       "lastLive": "2025-08-12T07:00:00.000Z",
       "lifetimeInDays": 5,
-      "lastUpdated": "Aug 23rd 12:55 PM EST"
+      "lastUpdated": "Aug 24th 12:55 AM EST"
     },
     {
-      "id": "Storm_19",
+      "id": "Storm_20",
       "sheetName": "Storm",
-      "rank": 2355,
+      "rank": 2375,
       "userId": "pistachiohandbwonders",
       "cid": "7482932825227001856",
       "agentName": "Storm",
@@ -399,12 +419,12 @@
       "percentToNextDip": 0.33,
       "lastLive": "2025-06-24T07:00:00.000Z",
       "lifetimeInDays": 159,
-      "lastUpdated": "Aug 23rd 12:55 PM EST"
+      "lastUpdated": "Aug 24th 12:55 AM EST"
     },
     {
-      "id": "Storm_20",
+      "id": "Storm_21",
       "sheetName": "Storm",
-      "rank": 2356,
+      "rank": 2376,
       "userId": "nikolaknows",
       "cid": "7509281644159893504",
       "agentName": "Storm",
@@ -419,12 +439,12 @@
       "percentToNextDip": 0.33,
       "lastLive": "2025-07-18T07:00:00.000Z",
       "lifetimeInDays": 88,
-      "lastUpdated": "Aug 23rd 12:55 PM EST"
+      "lastUpdated": "Aug 24th 12:55 AM EST"
     },
     {
-      "id": "Storm_21",
+      "id": "Storm_22",
       "sheetName": "Storm",
-      "rank": 2357,
+      "rank": 2377,
       "userId": "tonbonbonbon",
       "cid": "7508538911057166336",
       "agentName": "Storm",
@@ -439,12 +459,12 @@
       "percentToNextDip": 0.33,
       "lastLive": "2025-06-29T07:00:00.000Z",
       "lifetimeInDays": 90,
-      "lastUpdated": "Aug 23rd 12:55 PM EST"
+      "lastUpdated": "Aug 24th 12:55 AM EST"
     },
     {
-      "id": "Storm_22",
+      "id": "Storm_23",
       "sheetName": "Storm",
-      "rank": 2358,
+      "rank": 2378,
       "userId": "emmaleejohnson225",
       "cid": "7498086634039033856",
       "agentName": "Storm",
@@ -459,12 +479,12 @@
       "percentToNextDip": 0.33,
       "lastLive": "2025-07-27T07:00:00.000Z",
       "lifetimeInDays": 119,
-      "lastUpdated": "Aug 23rd 12:55 PM EST"
+      "lastUpdated": "Aug 24th 12:55 AM EST"
     },
     {
-      "id": "Storm_23",
+      "id": "Storm_24",
       "sheetName": "Storm",
-      "rank": 2359,
+      "rank": 2379,
       "userId": "flawlessfacesbyona",
       "cid": "7540450924582715392",
       "agentName": "Storm",
@@ -479,10 +499,10 @@
       "percentToNextDip": 0.33,
       "lastLive": "2025-08-19T07:00:00.000Z",
       "lifetimeInDays": 4,
-      "lastUpdated": "Aug 23rd 12:55 PM EST"
+      "lastUpdated": "Aug 24th 12:55 AM EST"
     }
   ],
-  "timestamp": "2025-08-24T04:45:37.724Z",
-  "count": 24,
+  "timestamp": "2025-08-24T11:15:22.118Z",
+  "count": 25,
   "sheetName": "Storm"
 }
