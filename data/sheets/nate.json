@@ -19,7 +19,7 @@
       "percentToNextDip": 0.87,
       "lastLive": "2025-08-21T07:00:00.000Z",
       "lifetimeInDays": 405,
-      "lastUpdated": "Aug 23rd 12:55 PM EST"
+      "lastUpdated": "Aug 24th 12:55 AM EST"
     },
     {
       "id": "Nate_1",
@@ -39,7 +39,7 @@
       "percentToNextDip": 0.89,
       "lastLive": "2025-08-15T07:00:00.000Z",
       "lifetimeInDays": 30,
-      "lastUpdated": "Aug 23rd 12:55 PM EST"
+      "lastUpdated": "Aug 24th 12:55 AM EST"
     },
     {
       "id": "Nate_2",
@@ -59,7 +59,7 @@
       "percentToNextDip": 0.84,
       "lastLive": "2025-08-23T07:00:00.000Z",
       "lifetimeInDays": 20,
-      "lastUpdated": "Aug 23rd 12:55 PM EST"
+      "lastUpdated": "Aug 24th 12:55 AM EST"
     },
     {
       "id": "Nate_3",
@@ -79,12 +79,32 @@
       "percentToNextDip": 0.94,
       "lastLive": "2025-08-23T07:00:00.000Z",
       "lifetimeInDays": 38,
-      "lastUpdated": "Aug 23rd 12:55 PM EST"
+      "lastUpdated": "Aug 24th 12:55 AM EST"
     },
     {
       "id": "Nate_4",
       "sheetName": "Nate",
-      "rank": 243,
+      "rank": 229,
+      "userId": "messiahdupont",
+      "cid": "7359138196468432896",
+      "agentName": "Nate",
+      "ttRank": null,
+      "dipTier": "No Tier",
+      "nextRankDiamonds": 42,
+      "validDays": 7,
+      "hours": 12.13,
+      "progress1225": null,
+      "progress1540": null,
+      "progress22100": null,
+      "percentToNextDip": 0.69,
+      "lastLive": "2025-08-23T07:00:00.000Z",
+      "lifetimeInDays": 38,
+      "lastUpdated": "Aug 24th 12:55 AM EST"
+    },
+    {
+      "id": "Nate_5",
+      "sheetName": "Nate",
+      "rank": 262,
       "userId": "bcp_untamed",
       "cid": "7418307788675219456",
       "agentName": "Nate",
@@ -99,12 +119,12 @@
       "percentToNextDip": 0.77,
       "lastLive": "2025-08-22T07:00:00.000Z",
       "lifetimeInDays": 334,
-      "lastUpdated": "Aug 23rd 12:55 PM EST"
+      "lastUpdated": "Aug 24th 12:55 AM EST"
     },
     {
-      "id": "Nate_5",
+      "id": "Nate_6",
       "sheetName": "Nate",
-      "rank": 263,
+      "rank": 283,
       "userId": "cobrasavi",
       "cid": "7524867168442253312",
       "agentName": "Nate",
@@ -119,12 +139,12 @@
       "percentToNextDip": 0.43,
       "lastLive": "2025-08-23T07:00:00.000Z",
       "lifetimeInDays": 46,
-      "lastUpdated": "Aug 23rd 12:55 PM EST"
+      "lastUpdated": "Aug 24th 12:55 AM EST"
     },
     {
-      "id": "Nate_6",
+      "id": "Nate_7",
       "sheetName": "Nate",
-      "rank": 287,
+      "rank": 307,
       "userId": "hillbillyoutfitters",
       "cid": "7359135287408132096",
       "agentName": "Nate",
@@ -139,12 +159,12 @@
       "percentToNextDip": 0.38,
       "lastLive": "2025-08-17T07:00:00.000Z",
       "lifetimeInDays": 47,
-      "lastUpdated": "Aug 23rd 12:55 PM EST"
+      "lastUpdated": "Aug 24th 12:55 AM EST"
     },
     {
-      "id": "Nate_7",
+      "id": "Nate_8",
       "sheetName": "Nate",
-      "rank": 347,
+      "rank": 367,
       "userId": "arieschasedabag",
       "cid": "7528214149709627392",
       "agentName": "Nate",
@@ -159,12 +179,12 @@
       "percentToNextDip": 0.62,
       "lastLive": "2025-08-22T07:00:00.000Z",
       "lifetimeInDays": 37,
-      "lastUpdated": "Aug 23rd 12:55 PM EST"
+      "lastUpdated": "Aug 24th 12:55 AM EST"
     },
     {
-      "id": "Nate_8",
+      "id": "Nate_9",
       "sheetName": "Nate",
-      "rank": 510,
+      "rank": 530,
       "userId": "averageatbestmom",
       "cid": "7520785622047408128",
       "agentName": "Nate",
@@ -179,12 +199,12 @@
       "percentToNextDip": 0.36,
       "lastLive": "2025-08-19T07:00:00.000Z",
       "lifetimeInDays": 57,
-      "lastUpdated": "Aug 23rd 12:55 PM EST"
+      "lastUpdated": "Aug 24th 12:55 AM EST"
     },
     {
-      "id": "Nate_9",
+      "id": "Nate_10",
       "sheetName": "Nate",
-      "rank": 682,
+      "rank": 702,
       "userId": "2xnuni",
       "cid": "7359137696045957120",
       "agentName": "Nate",
@@ -199,12 +219,12 @@
       "percentToNextDip": 0.35,
       "lastLive": "2025-08-04T07:00:00.000Z",
       "lifetimeInDays": 38,
-      "lastUpdated": "Aug 23rd 12:55 PM EST"
+      "lastUpdated": "Aug 24th 12:55 AM EST"
     },
     {
-      "id": "Nate_10",
+      "id": "Nate_11",
       "sheetName": "Nate",
-      "rank": 775,
+      "rank": 795,
       "userId": "neverwastetime_1",
       "cid": "7533400241253433344",
       "agentName": "Nate",
@@ -219,12 +239,12 @@
       "percentToNextDip": 0.44,
       "lastLive": "2025-08-23T07:00:00.000Z",
       "lifetimeInDays": 23,
-      "lastUpdated": "Aug 23rd 12:55 PM EST"
+      "lastUpdated": "Aug 24th 12:55 AM EST"
     },
     {
-      "id": "Nate_11",
+      "id": "Nate_12",
       "sheetName": "Nate",
-      "rank": 2303,
+      "rank": 2323,
       "userId": "dillonjensen21",
       "cid": "7429760455020920832",
       "agentName": "Nate",
@@ -239,12 +259,12 @@
       "percentToNextDip": 0.33,
       "lastLive": "2025-08-23T07:00:00.000Z",
       "lifetimeInDays": 31,
-      "lastUpdated": "Aug 23rd 12:55 PM EST"
+      "lastUpdated": "Aug 24th 12:55 AM EST"
     },
     {
-      "id": "Nate_12",
+      "id": "Nate_13",
       "sheetName": "Nate",
-      "rank": 2304,
+      "rank": 2324,
       "userId": "braydonblecher",
       "cid": "7538966470915702784",
       "agentName": "Nate",
@@ -259,12 +279,12 @@
       "percentToNextDip": 0.33,
       "lastLive": "2025-08-15T07:00:00.000Z",
       "lifetimeInDays": 8,
-      "lastUpdated": "Aug 23rd 12:55 PM EST"
+      "lastUpdated": "Aug 24th 12:55 AM EST"
     },
     {
-      "id": "Nate_13",
+      "id": "Nate_14",
       "sheetName": "Nate",
-      "rank": 2305,
+      "rank": 2325,
       "userId": "jalalthaking",
       "cid": "7534012338631065600",
       "agentName": "Nate",
@@ -279,10 +299,10 @@
       "percentToNextDip": 0.33,
       "lastLive": "2025-08-09T07:00:00.000Z",
       "lifetimeInDays": 22,
-      "lastUpdated": "Aug 23rd 12:55 PM EST"
+      "lastUpdated": "Aug 24th 12:55 AM EST"
     }
   ],
-  "timestamp": "2025-08-24T04:45:33.808Z",
-  "count": 14,
+  "timestamp": "2025-08-24T11:15:17.729Z",
+  "count": 15,
   "sheetName": "Nate"
 }
