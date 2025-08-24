@@ -4,7 +4,7 @@
     {
       "id": "Thomas_0",
       "sheetName": "Thomas",
-      "rank": 255,
+      "rank": 274,
       "userId": "mr.tee.chap",
       "cid": "7359135363258023936",
       "agentName": "Thomas",
@@ -19,10 +19,10 @@
       "percentToNextDip": 0.47,
       "lastLive": "2025-08-19T07:00:00.000Z",
       "lifetimeInDays": 825,
-      "lastUpdated": "Aug 23rd 12:55 PM EST"
+      "lastUpdated": "Aug 24th 12:55 AM EST"
     }
   ],
-  "timestamp": "2025-08-24T04:45:38.440Z",
+  "timestamp": "2025-08-24T11:15:22.906Z",
   "count": 1,
   "sheetName": "Thomas"
 }
