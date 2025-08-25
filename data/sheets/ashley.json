@@ -19,7 +19,7 @@
       "percentToNextDip": 0.97,
       "lastLive": "2025-08-24T07:00:00.000Z",
       "lifetimeInDays": 597,
-      "lastUpdated": "Aug 24th 12:55 PM EST"
+      "lastUpdated": "Aug 25th 12:55 AM EST"
     },
     {
       "id": "Ashley_1",
@@ -39,7 +39,7 @@
       "percentToNextDip": 0.58,
       "lastLive": "2025-08-17T07:00:00.000Z",
       "lifetimeInDays": 378,
-      "lastUpdated": "Aug 24th 12:55 PM EST"
+      "lastUpdated": "Aug 25th 12:55 AM EST"
     },
     {
       "id": "Ashley_2",
@@ -57,9 +57,9 @@
       "progress1540": null,
       "progress22100": null,
       "percentToNextDip": 0.74,
-      "lastLive": "2025-08-20T07:00:00.000Z",
+      "lastLive": "2025-08-24T07:00:00.000Z",
       "lifetimeInDays": 391,
-      "lastUpdated": "Aug 24th 12:55 PM EST"
+      "lastUpdated": "Aug 25th 12:55 AM EST"
     },
     {
       "id": "Ashley_3",
@@ -79,7 +79,7 @@
       "percentToNextDip": 0.65,
       "lastLive": "2025-08-16T07:00:00.000Z",
       "lifetimeInDays": 268,
-      "lastUpdated": "Aug 24th 12:55 PM EST"
+      "lastUpdated": "Aug 25th 12:55 AM EST"
     },
     {
       "id": "Ashley_4",
@@ -97,9 +97,9 @@
       "progress1540": null,
       "progress22100": null,
       "percentToNextDip": 0.39,
-      "lastLive": "2025-08-23T07:00:00.000Z",
+      "lastLive": "2025-08-24T07:00:00.000Z",
       "lifetimeInDays": 473,
-      "lastUpdated": "Aug 24th 12:55 PM EST"
+      "lastUpdated": "Aug 25th 12:55 AM EST"
     },
     {
       "id": "Ashley_5",
@@ -119,7 +119,7 @@
       "percentToNextDip": 0.57,
       "lastLive": "2025-08-22T07:00:00.000Z",
       "lifetimeInDays": 601,
-      "lastUpdated": "Aug 24th 12:55 PM EST"
+      "lastUpdated": "Aug 25th 12:55 AM EST"
     },
     {
       "id": "Ashley_6",
@@ -139,7 +139,7 @@
       "percentToNextDip": 0.59,
       "lastLive": "2025-08-22T07:00:00.000Z",
       "lifetimeInDays": 376,
-      "lastUpdated": "Aug 24th 12:55 PM EST"
+      "lastUpdated": "Aug 25th 12:55 AM EST"
     },
     {
       "id": "Ashley_7",
@@ -159,7 +159,7 @@
       "percentToNextDip": 0.44,
       "lastLive": "2025-08-21T07:00:00.000Z",
       "lifetimeInDays": 446,
-      "lastUpdated": "Aug 24th 12:55 PM EST"
+      "lastUpdated": "Aug 25th 12:55 AM EST"
     },
     {
       "id": "Ashley_8",
@@ -179,7 +179,7 @@
       "percentToNextDip": 0.84,
       "lastLive": "2025-08-23T07:00:00.000Z",
       "lifetimeInDays": 359,
-      "lastUpdated": "Aug 24th 12:55 PM EST"
+      "lastUpdated": "Aug 25th 12:55 AM EST"
     },
     {
       "id": "Ashley_9",
@@ -199,7 +199,7 @@
       "percentToNextDip": 0.33,
       "lastLive": "2025-07-27T07:00:00.000Z",
       "lifetimeInDays": 795,
-      "lastUpdated": "Aug 24th 12:55 PM EST"
+      "lastUpdated": "Aug 25th 12:55 AM EST"
     },
     {
       "id": "Ashley_10",
@@ -219,7 +219,7 @@
       "percentToNextDip": 0.37,
       "lastLive": "2025-08-18T07:00:00.000Z",
       "lifetimeInDays": 707,
-      "lastUpdated": "Aug 24th 12:55 PM EST"
+      "lastUpdated": "Aug 25th 12:55 AM EST"
     },
     {
       "id": "Ashley_11",
@@ -239,10 +239,10 @@
       "percentToNextDip": 0.35,
       "lastLive": "2025-08-20T07:00:00.000Z",
       "lifetimeInDays": 165,
-      "lastUpdated": "Aug 24th 12:55 PM EST"
+      "lastUpdated": "Aug 25th 12:55 AM EST"
     }
   ],
-  "timestamp": "2025-08-25T04:45:33.853Z",
+  "timestamp": "2025-08-25T11:15:19.212Z",
   "count": 12,
   "sheetName": "Ashley"
 }
