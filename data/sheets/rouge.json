@@ -19,7 +19,7 @@
       "percentToNextDip": 0.96,
       "lastLive": "2025-08-23T07:00:00.000Z",
       "lifetimeInDays": 528,
-      "lastUpdated": "Aug 24th 12:55 PM EST"
+      "lastUpdated": "Aug 25th 12:55 AM EST"
     },
     {
       "id": "Rouge_1",
@@ -39,7 +39,7 @@
       "percentToNextDip": 0.71,
       "lastLive": "2025-08-23T07:00:00.000Z",
       "lifetimeInDays": 535,
-      "lastUpdated": "Aug 24th 12:55 PM EST"
+      "lastUpdated": "Aug 25th 12:55 AM EST"
     },
     {
       "id": "Rouge_2",
@@ -59,7 +59,7 @@
       "percentToNextDip": 0.94,
       "lastLive": "2025-08-24T07:00:00.000Z",
       "lifetimeInDays": 11,
-      "lastUpdated": "Aug 24th 12:55 PM EST"
+      "lastUpdated": "Aug 25th 12:55 AM EST"
     },
     {
       "id": "Rouge_3",
@@ -79,7 +79,7 @@
       "percentToNextDip": 0.43,
       "lastLive": "2025-08-21T07:00:00.000Z",
       "lifetimeInDays": 720,
-      "lastUpdated": "Aug 24th 12:55 PM EST"
+      "lastUpdated": "Aug 25th 12:55 AM EST"
     },
     {
       "id": "Rouge_4",
@@ -97,9 +97,9 @@
       "progress1540": null,
       "progress22100": null,
       "percentToNextDip": 0.69,
-      "lastLive": "2025-08-23T07:00:00.000Z",
+      "lastLive": "2025-08-24T07:00:00.000Z",
       "lifetimeInDays": 121,
-      "lastUpdated": "Aug 24th 12:55 PM EST"
+      "lastUpdated": "Aug 25th 12:55 AM EST"
     },
     {
       "id": "Rouge_5",
@@ -119,7 +119,7 @@
       "percentToNextDip": 0.95,
       "lastLive": "2025-08-24T07:00:00.000Z",
       "lifetimeInDays": 116,
-      "lastUpdated": "Aug 24th 12:55 PM EST"
+      "lastUpdated": "Aug 25th 12:55 AM EST"
     },
     {
       "id": "Rouge_6",
@@ -139,7 +139,7 @@
       "percentToNextDip": 0.71,
       "lastLive": "2025-08-21T07:00:00.000Z",
       "lifetimeInDays": 106,
-      "lastUpdated": "Aug 24th 12:55 PM EST"
+      "lastUpdated": "Aug 25th 12:55 AM EST"
     },
     {
       "id": "Rouge_7",
@@ -159,7 +159,7 @@
       "percentToNextDip": 0.39,
       "lastLive": "2025-08-01T07:00:00.000Z",
       "lifetimeInDays": 115,
-      "lastUpdated": "Aug 24th 12:55 PM EST"
+      "lastUpdated": "Aug 25th 12:55 AM EST"
     },
     {
       "id": "Rouge_8",
@@ -179,7 +179,7 @@
       "percentToNextDip": 0.67,
       "lastLive": "2025-08-24T07:00:00.000Z",
       "lifetimeInDays": 711,
-      "lastUpdated": "Aug 24th 12:55 PM EST"
+      "lastUpdated": "Aug 25th 12:55 AM EST"
     },
     {
       "id": "Rouge_9",
@@ -199,7 +199,7 @@
       "percentToNextDip": 0.43,
       "lastLive": "2025-08-22T07:00:00.000Z",
       "lifetimeInDays": 560,
-      "lastUpdated": "Aug 24th 12:55 PM EST"
+      "lastUpdated": "Aug 25th 12:55 AM EST"
     },
     {
       "id": "Rouge_10",
@@ -219,7 +219,7 @@
       "percentToNextDip": 0.4,
       "lastLive": "2025-08-10T07:00:00.000Z",
       "lifetimeInDays": 651,
-      "lastUpdated": "Aug 24th 12:55 PM EST"
+      "lastUpdated": "Aug 25th 12:55 AM EST"
     },
     {
       "id": "Rouge_11",
@@ -239,7 +239,7 @@
       "percentToNextDip": 0.35,
       "lastLive": "2025-08-22T07:00:00.000Z",
       "lifetimeInDays": 354,
-      "lastUpdated": "Aug 24th 12:55 PM EST"
+      "lastUpdated": "Aug 25th 12:55 AM EST"
     },
     {
       "id": "Rouge_12",
@@ -259,7 +259,7 @@
       "percentToNextDip": 0.33,
       "lastLive": "2025-07-15T07:00:00.000Z",
       "lifetimeInDays": 514,
-      "lastUpdated": "Aug 24th 12:55 PM EST"
+      "lastUpdated": "Aug 25th 12:55 AM EST"
     },
     {
       "id": "Rouge_13",
@@ -279,10 +279,10 @@
       "percentToNextDip": 0.33,
       "lastLive": "2025-07-01T07:00:00.000Z",
       "lifetimeInDays": 656,
-      "lastUpdated": "Aug 24th 12:55 PM EST"
+      "lastUpdated": "Aug 25th 12:55 AM EST"
     }
   ],
-  "timestamp": "2025-08-25T04:45:47.186Z",
+  "timestamp": "2025-08-25T11:15:37.745Z",
   "count": 14,
   "sheetName": "Rouge"
 }
